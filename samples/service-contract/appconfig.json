@@ -1,5 +1,5 @@
 {
-  "name": "JP01 Demo Extension",
+  "name": "JP01 Demo Extension", 
   "provider": "SAP FSM",
   "description": "JP01 Demonstration of an Extension",   
   "version": "1.0.0", 
